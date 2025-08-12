@@ -1,2 +1,3 @@
-#ai-assisted-coding
+AI ASSISTED CODING ASSIGNMENTS
+
 
